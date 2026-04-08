@@ -5,7 +5,7 @@
 Análise financeira completa de operação de entregas 
 para a Shopee, cobrindo o período de Dez/2025 a Jan/2026.
 
-### Ferramentas utilizadas
+## Ferramentas utilizadas ##
 - Microsoft Excel (fórmulas avançadas, tabelas dinâmicas)
 - Power BI (em desenvolvimento)
 

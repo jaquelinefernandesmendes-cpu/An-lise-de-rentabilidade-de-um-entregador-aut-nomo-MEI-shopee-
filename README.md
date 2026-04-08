@@ -10,7 +10,8 @@ para a Shopee, cobrindo o período de Dez/2025 a Jan/2026.
 - Power BI (em desenvolvimento)
 
 ### Principais indicadores
-| INDICADOR | VALOR
+
+| INDICADOR | | VALOR |
 |---|---|
 | Receita bruta total | R$ 5.080,90 |
 | Margem operacional | 86,5% |

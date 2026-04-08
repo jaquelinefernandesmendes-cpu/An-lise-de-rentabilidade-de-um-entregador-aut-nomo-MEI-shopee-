@@ -1,5 +1,5 @@
 # Análise de Rentabilidade Operacional
-## MEI — Logística de Última Milha | Shopee
+## MEI — Logística de ultima milha - Shopee
 
 ### Sobre o projeto
 Análise financeira completa de operação de entregas 

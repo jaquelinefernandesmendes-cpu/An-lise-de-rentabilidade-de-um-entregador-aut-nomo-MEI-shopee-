@@ -14,7 +14,7 @@ para a Shopee, cobrindo o período de Dez/2025 a Jan/2026.
 |---|---|
 | Receita bruta total | R$ 5.080,90 |
 | Margem operacional | 86,5% |
-| Margem líquida | 71,1% |
+| Margem Liquída | 71,1% |
 | Total de entregas | 1.010 |
 | Índice de eficiência por km | 86,5% |
 
